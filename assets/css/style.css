@@ -465,3 +465,33 @@ footer p{
     margin-right:10px;
 
 }
+.hero h3{
+
+    font-weight:400;
+
+    color:#4b5563;
+
+    margin-top:-10px;
+
+    margin-bottom:25px;
+
+}
+.badge{
+
+    display:inline-block;
+
+    background:#dbeafe;
+
+    color:#2563eb;
+
+    padding:8px 18px;
+
+    border-radius:20px;
+
+    font-weight:600;
+
+    margin-bottom:20px;
+
+}
+
+
